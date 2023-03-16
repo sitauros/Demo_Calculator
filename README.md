@@ -1,4 +1,4 @@
-# Demo_Calculator
+# Calculator
 ![Calculator](https://i.imgur.com/LVXw4jl.gif)
 
 ## The official Visual Studio C# tutorial exercise
